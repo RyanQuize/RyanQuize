@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Ryan</h1>
 <h3 align="center">Apaixonado por Ciência e Análise de Dados</h3>
 
-- 🔭 Atualmente Trabalhando para expandir meu portifolio em Análise e Visualização de dados
+- 🔭 Atualmente Trabalhando para expandir meu conhecimento em Análise e Visualização de dados
 
 - 🌱 Atualmente aprendendo **Power BI**
 
