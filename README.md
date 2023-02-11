@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente Trabalhando para expandir meu conhecimento em Análise e Visualização de dados
 
-- 🌱 Atualmente aprendendo **Power BI**
+- 🌱 Atualmente me aperfeiçoando em **Python**
 
 - 💬 Me pergunte sobre **SQL, Excel, Python**
 
