@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente me aperfeiçoando em **Python**
 
-- 💬 Me pergunte sobre **SQL, Excel, Python**
+- 💬 Me pergunte sobre **SQL, Excel, Python, Power BI**
 
 - 📫 Você me encontra no e-mail **bispo.ryan74@gmail.com**
 
