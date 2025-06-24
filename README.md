@@ -1,9 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Ryan</h1>
-<h3 align="center">Dados e Desenvolvimento Web</h3>
+<h3 align="center">Ciência e Analise de Dados</h3>
 
 - 🔭 Atualmente Trabalhando para expandir meu conhecimento
-
-- 🌱 Me aperfeiçoando em **Desenvolvimento Web Front-End**
 
 - 📫 Você me encontra no e-mail **bispo.ryan74@gmail.com**
 
